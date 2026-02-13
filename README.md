@@ -32,5 +32,5 @@ I am a Full-Stack Software Engineer with 2+ years of production experience build
 ## 📫 Connect with me
 - **LinkedIn:** https://www.linkedin.com/in/rafaelperez10/
 - **Email:** alberto9821@hotmail.com
-- **Portfolio:** rafaelperezio.vercel.app
+- **Portfolio:** https://rafaelperezio.vercel.app/
 - **Location:** Authorized to work in the United States.
