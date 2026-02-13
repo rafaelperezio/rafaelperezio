@@ -8,6 +8,12 @@
   <a href="https://www.linkedin.com/in/rafaelperez10/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+  <a href="https://discordapp.com/users/rafaelperezio" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="mailto:alberto9821@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  </a>
 </div>
 
 ###
@@ -28,7 +34,7 @@
 
 ###
 
-<p align="left">👾 Tech Stack & Expertise<br><br>⛓️ Web3 & Blockchain (Focus: Solana)<br>- Languages: Rust, TypeScript.<br>- Frameworks: Anchor, Solana-web3.js, Hardhat.<br>- Tools: Solana CLI, Program Derived Addresses (PDAs), and CPIs.<br><br>🌐 Web2 & Cloud (Professional Experience)<br>- Languages: TypeScript, JavaScript, Python, Java.<br>- Backend: Node.js, NestJS, Spring Boot.<br>- Frontend: Next.js, React, Tailwind CSS.<br>- Cloud/DevOps: AWS Certified (Lambda, API Gateway, DynamoDB, S3, CDK, SNS/SQS, EC2, IAM), Docker.<br>- Databases: PostgreSQL, MySQL, MongoDB, DynamoDB.</p>
+<p align="left">🛠 Tech Stack & Expertise<br><br>⛓️ Web3 & Blockchain (Focus: Solana)<br>- Languages: Rust, TypeScript.<br>- Frameworks: Anchor, Solana-web3.js, Hardhat.<br>- Tools: Solana CLI, Program Derived Addresses (PDAs), and CPIs.<br><br>🌐 Web2 & Cloud (Professional Experience)<br>- Languages: TypeScript, JavaScript, Python, Java.<br>- Backend: Node.js, NestJS, Spring Boot.<br>- Frontend: Next.js, React, Tailwind CSS.<br>- Cloud/DevOps: AWS Certified (Lambda, API Gateway, DynamoDB, S3, CDK, SNS/SQS, EC2, IAM), Docker.<br>- Databases: PostgreSQL, MySQL, MongoDB, DynamoDB.</p>
 
 ###
 
