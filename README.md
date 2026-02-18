@@ -33,14 +33,6 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<p align="left">🛠 Tech Stack & Expertise<br><br>⛓️ Web3 & Blockchain (Focus: Solana)<br>- Languages: Rust, TypeScript.<br>- Frameworks: Anchor, Solana-web3.js, Hardhat.<br>- Tools: Solana CLI, Program Derived Addresses (PDAs), and CPIs.<br><br>🌐 Web2 & Cloud (Professional Experience)<br>- Languages: TypeScript, JavaScript, Python, Java.<br>- Backend: Node.js, NestJS, Spring Boot.<br>- Frontend: Next.js, React, Tailwind CSS.<br>- Cloud/DevOps: AWS Certified (Lambda, API Gateway, DynamoDB, S3, CDK, SNS/SQS, EC2, IAM), Docker.<br>- Databases: PostgreSQL, MySQL, MongoDB, DynamoDB.</p>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
   <img width="12" />
